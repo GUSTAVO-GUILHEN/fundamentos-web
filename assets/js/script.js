@@ -69,7 +69,7 @@ function enviar(){
     }else if (nomeOk == true && emailOk == true && assuntoOk == false){
         alert('Digite o Assunto Corretamente')
     }else{
-        alert ('Preencha o formulario corretamente antes de enviar')
+        alert ('Preencha o formulario corretamente antes de enviar.')
     }
 }
 
